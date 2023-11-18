@@ -4,4 +4,4 @@ st.title("Hello World")
 
 st.subheader("This is a subheader")
 
-st.martkdown("## This is a markdown")
+st.markdown("This is a markdown")
